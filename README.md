@@ -1,1 +1,1 @@
-# sql-practice-to-projects
+# sql-learning-journey
