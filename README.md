@@ -1,8 +1,8 @@
- 🗄️ SQL Learning Journey
+# 🎯 SQL Learning Journey
 
 This repository contains all the SQL concepts and exercises I have learned during my Data Analytics journey.
 
-📚 Topics Covered
+# 📚 Topics Covered
 
 - DDL Commands
 - DML Commands
@@ -17,6 +17,6 @@ This repository contains all the SQL concepts and exercises I have learned durin
 - Triggers
 - Stored Procedures
 
-🎯 Goal
+# 🎯 Goal
 
 To strengthen my SQL skills through continuous learning and hands-on practice.
